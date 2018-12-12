@@ -12,4 +12,4 @@
   2. Run computeHist -> this will find the outlying photo with the most different exposure and match the histogram to a reference photo of better lighting. Both of these photos will be printed, and the new image will be saved in the current directory as "new_image.JPG".
   
 ## 2nd step: Hard-coding to create new panorama
-  1. Whichever photo was updated (1-4.JPG) deleted/remove from the program. Rename "new_image.JPG" to #.JPG ( the number of what was updated). Place these 1-4.JPG files into the input images folder. Run main and the panorama printed will be the updated panorama with matching exposure.
+  1. Whichever photo was updated (1-4.JPG) deleted/remove from the program. Rename "new_image.JPG" to #.JPG ( the number of what was updated). Place these 1-4.JPG files into the input images folder. Run main and the panorama printed will be the updated panorama with matching exposure. The file will be saved in the current directory as "new_panorama.JPG".
