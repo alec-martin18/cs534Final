@@ -3,7 +3,7 @@
 ## How to run our implementation with Homework 4
 
 
-## Optional 0 step- run sift program 
+## Optional 0 step- run sift program of original panorama
   1. Install the VLFEATROOT step, and place the four chosen photos (with one bad exposure picture) into the input_images folder. Run main. This will create a poor panorama that we will be updating with our implementation to match the exposure.
 
 ## 1st step: Run ComputeHist Function (Our Implementation)
@@ -16,7 +16,8 @@
 
 
 ## Notes
-4 photos that make a panorama have already been provided in the correct directory- run computeHist and then immidiately run main to see a quick result of the updated panorama.
+  1. 4 photos that make a panorama have already been provided in the correct directory- run computeHist and then immidiately run main to see a quick result of the updated panorama.
+  2. To see the original panorama (with 1 picture at bad exposure) copy the 4 original photos in the current directory into the input_images folder and run main.
 
 
  
